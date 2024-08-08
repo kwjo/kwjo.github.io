@@ -19,9 +19,9 @@ colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hi!'
+homeIntroTitle = 'Hi, I'm Kwan'
 homeIntroContent = """
-My name is Kwan. I’m a clinical pharmacist currently pursuing an MSc in Clinical Pharmacy, with a strong interest in both clinical pharmacy/pharmacology and data science. On this blog, I’ll be sharing things I find intriguing in clinical pharmacy as well as exploring various data-driven topics. If you have any questions, feel free to reach out!
+I'm a clinical pharmacist and I'm into clinical pharamcy and data science.
 """
 
 # Collection to display on home
