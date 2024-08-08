@@ -19,9 +19,9 @@ colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hi, I'm Kwan'
+homeIntroTitle = "Hi, I'm Kwan 👋"
 homeIntroContent = """
-I'm a clinical pharmacist and I'm into clinical pharamcy and data science.
+I'm a clinical pharmacist @NHS and I'm into clinical pharmacy and data science. Feel free to reach out if you have any questions!
 """
 
 # Collection to display on home
