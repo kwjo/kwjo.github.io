@@ -15,5 +15,19 @@
       <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>In the UK, it is estimated that 3% of men and 8% of women have iron deficiency anaemia.&#xA;Would giving parenteral iron add any clinical benefits to the patients now? What is the expected onset of action on the haemoglobin and iron levels? doi:10.1001/jamanetworkopen.2021.33935 doi: 10.1016/j.bbagen.2008.07.002 </description>
     </item>
+    <item>
+      <title>Repository-Clinical</title>
+      <link>http://localhost:1313/repository-clinical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/repository-clinical/</guid>
+      <description>2021_Aug_Empagliflozin in Heart Failure with a Preserved Ejection Fraction&#xA;Empagliflozin use in HFpEF.&#xA;Study Name Author and Year Type of Study and Sample Size Treatment and Duration Study Endpoint and Primary Outcome Results Study 1 Author A (2020) Randomized Controlled Trial (n=100) Drug A, 6 months Endpoint X, Outcome Y Significant improvement in Y Study 2 Author B (2019) Cohort Study (n=200) Treatment B, 1 year Endpoint Z, Outcome W No significant change in W Study 3 Author C (2021) Case-Control Study (n=150) Intervention C, 3 months Endpoint Y, Outcome Z Outcome Z improved by 15% Study 4 Author D (2018) Cross-Sectional Study (n=250) Lifestyle change, 6 weeks Endpoint A, Outcome B Minor improvement in B Study 5 Author E (2022) Meta-Analysis (n=10 studies) Various, Duration varies Endpoint C, Outcome D Overall positive trend in D </description>
+    </item>
+    <item>
+      <title>Repository-Data</title>
+      <link>http://localhost:1313/repository-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/repository-data/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

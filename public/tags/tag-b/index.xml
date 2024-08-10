@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag B on kwjo.github.io</title>
+    <link>http://localhost:1313/tags/tag-b/</link>
+    <description>Recent content in Tag B on kwjo.github.io</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Aug 2024 16:55:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tag-b/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why should you withhold giving parenteral iron when there is an active infection?</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 08 Aug 2024 16:55:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>In the UK, it is estimated that 3% of men and 8% of women have iron deficiency anaemia.&#xA;Would giving parenteral iron add any clinical benefits to the patients now? What is the expected onset of action on the haemoglobin and iron levels? doi:10.1001/jamanetworkopen.2021.33935 doi: 10.1016/j.bbagen.2008.07.002 </description>
+    </item>
+  </channel>
+</rss>

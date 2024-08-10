@@ -58,6 +58,14 @@ url = "/posts"
 name = "about"
 url = "/about"
 
+[[params.menu]]
+name = "repository-clinical"
+url = "/repository-clinical"
+
+[[params.menu]]
+name = "repository-data"
+url = "/repository-data"
+
 # Syntax highligth on code blocks
 [markup]
 [markup.highlight]

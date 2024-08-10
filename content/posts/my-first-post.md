@@ -2,6 +2,7 @@
 title = 'Why should you withhold giving parenteral iron when there is an active infection?'
 date = 2024-08-08T16:55:07+01:00
 draft = false
+tags = ['Tag A', 'Tag B']
 +++
 In the UK, it is estimated that 3% of men and 8% of women have iron deficiency anaemia.
 1. Would giving parenteral iron add any clinical benefits to the patients now?

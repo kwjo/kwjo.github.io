@@ -8,11 +8,22 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-08-08T16:55:07+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/tag-a/</loc>
+    <lastmod>2024-08-08T16:55:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tag-b/</loc>
+    <lastmod>2024-08-08T16:55:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-08-08T16:55:07+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/my-first-post/</loc>
     <lastmod>2024-08-08T16:55:07+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/g-xxxxxxxxx/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/repository-clinical/</loc>
+  </url><url>
+    <loc>http://localhost:1313/repository-data/</loc>
   </url>
 </urlset>
