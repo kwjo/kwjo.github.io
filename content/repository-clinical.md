@@ -11,7 +11,7 @@ Empagliflozin use in HFpE.
 IV Iron use in HFrEF.
 
 [2005_05_NEJM: Infliximab for Induction and Maintenance Therapy for Ulcerative Colitis](https://www.nejm.org/doi/full/10.1056/NEJMoa050516)\
-Infliximab induction.
+Infliximab induction. [Mayo Score for UC](https://www.mdcalc.com/calc/3675/mayo-score-disease-activity-index-dai-ulcerative-colitis)
 
 [2015_04_NEJM: Prednisolone or Pentoxifylline for Alcoholic Hepatitis](https://www.nejm.org/doi/full/10.1056/NEJMoa1412278)\
 Pentoxifylline did not improve survival in patients with alcoholic hepatitis.
@@ -21,7 +21,20 @@ IV Erythromycin before emergency endoscopy improves quality of endoscopy
 
 [2007_08_Clinical_Infectious_Diseases: A comparison of vancomycin and metronidazole for the treatment of Clostridium difficile-associated diarrhea, stratified by disease severity](https://doi.org/10.1086/519265)\
 Vancomycin and Metronidazole equally effective in C.diff infection
- 
+
+[2010_04_NEJM: Infliximab, Azathioprine, or Combination Therapy for Crohn's Disease(SONIC)](https://www.nejm.org/doi/full/10.1056/NEJMoa0904492)
+
+[2008_02_Lancet: Early combined immunosuppression or conventional management in patients with newly diagnosed Crohn's disease: an open randomised trial](https://doi.org/10.1016/S0140-6736(08)60304-9)\
+Infliximab and azathioprine combination better than monotherapy with steroids
+
+[2007_06_Ann_Intern_Med: Adalimumab Induction Therapy for Crohn Disease Previously Treated with Infliximab](10.7326/0003-4819-146-12-200706190-00159)\
+Adalimumab as second agent when infliximab non-responding
+
+[2019_09_NEJM: Vedolizumab versus Adalimumab for Moderate-to-Severe Ulcerative Colitis](10.1056/NEJMoa1905725)\
+Vedolizumab superior to adalimumab (but not corticosteroid-free clinical remission)
+
+
+
 | Study Name | Author and Year | Type of Study and Sample Size       | Treatment and Duration    | Study Endpoint and Primary Outcome | Results                      |
 | ---------- | --------------- | ----------------------------------- | ------------------------- | ---------------------------------- | ---------------------------- |
 | Study 1    | Author A (2020) | Randomized Controlled Trial (n=100) | Drug A, 6 months          | Endpoint X, Outcome Y              | Significant improvement in Y |
