@@ -66,6 +66,10 @@ url = "/repository-clinical"
 name = "repository-data"
 url = "/repository-data"
 
+[[params.menu]]
+name = "repository-grit"
+url = "/repository-grit"
+
 # Syntax highligth on code blocks
 [markup]
 [markup.highlight]
