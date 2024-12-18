@@ -21,7 +21,7 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = "Hi, I'm Kwan 👋"
 homeIntroContent = """
-I work as a clinical pharmacist at the NHS, passionate about advancing clinical pharmacy and integrating data science into healthcare. Feel free to reach out if you have any questions! **The content provided on this blog is for informational purposes only and is not intended as medical advice.**
+I work as a clinical pharmacist at the NHS. I intend to yap on here about anything I find interesting.
 """
 
 # Collection to display on home
